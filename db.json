@@ -1,0 +1,40 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "title": "Classic Sneakers",
+      "description": "Comfortable everyday sneakers with a minimalist design.",
+      "price": 59.99
+    },
+    {
+      "id": 2,
+      "title": "Running Shoes",
+      "description": "Lightweight shoes designed for long-distance running and durability.",
+      "price": 89.99
+    },
+    {
+      "id": 3,
+      "title": "Hiking Boots",
+      "description": "Sturdy boots for rugged terrain with superior ankle support.",
+      "price": 129.99
+    },
+    {
+      "id": 4,
+      "title": "Slip-on Loafers",
+      "description": "Stylish loafers with a sleek design for casual wear.",
+      "price": 49.99
+    },
+    {
+      "id": 5,
+      "title": "Basketball Shoes",
+      "description": "High-performance shoes with extra grip for the basketball court.",
+      "price": 99.99
+    },
+    {
+      "id": 6,
+      "title": "Formal Leather Shoes",
+      "description": "Elegant leather shoes perfect for formal occasions.",
+      "price": 149.99
+    }
+  ]
+}
